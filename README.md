@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omnia Rfaey</h1>
 <h3 align="center">A Student at faculty of computers and artificial intelligence Benha University</h3>
 
-- 📫 How to reach me **omniarfaey442@gmail.com**
+- 📫 How to reach me omniarfaey442@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
